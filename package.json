@@ -20,6 +20,8 @@
   "dependencies": {
     "react": "16.3.1",
     "react-native": "~0.55.2",
-    "react-navigation": "^2.8.0"
+    "react-native-pdf": "^4.0.0",
+    "react-navigation": "^2.8.0",
+    "rn-fetch-blob": "^0.10.12"
   }
 }
