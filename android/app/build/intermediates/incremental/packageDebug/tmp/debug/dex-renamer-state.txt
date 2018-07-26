@@ -1,4 +1,4 @@
-#Thu Jul 19 23:12:15 CST 2018
-base.0=/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Wed Jul 25 22:45:08 CST 2018
+base.0=/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/transforms/dexMerger/debug/17
 renamed.0=classes.dex
 path.0=classes.dex

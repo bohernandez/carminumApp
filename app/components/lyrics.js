@@ -1,32 +1,39 @@
 import React from 'react';
-import { Text, View, StyleSheet } from 'react-native';
+import { Text, View, StyleSheet, Dimensions } from 'react-native';
 import Pdf from 'react-native-pdf';
 
 class Lyrics extends React.Component {
-    static navigationOptions = {
-      title: 'Songs',
+  constructor(props) {
+      super(props);
+      this.pdf = null;
+    }
+    /*static navigationOptions = {
+      title: "Song",
+    };*/
+    static navigationOptions = ({ navigation }) => {
+      return {
+        title: navigation.getParam('name'),
+      };
     };
     render() {
-      const { navigate } = this.props.navigation;
       const { name, lyric } = this.props.navigation.state.params;
-      const source = {uri:'http://samples.leanpub.com/thereactnativebook-sample.pdf',cache:true};
+      const source = {uri: lyric, cache:false};
 
       return (
-        <View style={StyleSheet.container}>
-          <Text>Title {name}</Text>
-          <Text>Letra {lyric}</Text>
-          <Pdf
-                    source={source}
-                    onLoadComplete={(numberOfPages,filePath)=>{
-                        console.log(`number of pages: ${numberOfPages}`);
-                    }}
-                    onPageChanged={(page,numberOfPages)=>{
-                        console.log(`current page: ${page}`);
-                    }}
-                    onError={(error)=>{
-                        console.log(error);
-                    }}
-                    style={styles.pdf} />
+        <View style={styles.container}>
+            <Pdf ref={(pdf)=>{this.pdf = pdf;}}
+            source={source}
+            onLoadComplete={(numberOfPages,filePath)=>{
+                console.log(filePath);
+                console.log(`number of pages: ${numberOfPages}`);
+            }}
+            onPageChanged={(page,numberOfPages)=>{
+                console.log(`current page: ${page}`);
+            }}
+            onError={(error)=>{
+                console.log(error);
+            }}
+            style={styles.pdf} />
         </View>
       );
     }
@@ -37,10 +44,11 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'flex-start',
   },
   pdf: {
     flex:1,
+    height: 200,
     width:Dimensions.get('window').width,
   }
 });

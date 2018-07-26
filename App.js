@@ -7,17 +7,17 @@ import Lyrics from './app/components/lyrics';
 let listaCantos = [
   {
     title: "E. Canta Iglesia",
-    lyric: "Se;or queremos que mires tu toda nuestra comunidad",
+    lyric: "http://www.axmag.com/download/pdfurl-guide.pdf",
     mp3file: "url"
   },
   {
     title: "Pueblo de Reyes",
-    lyric: "Pueblo de Reyes, asamblea santa, pueblo sacerdotal",
+    lyric: "http://www.axmag.com/download/pdfurl-guide.pdf",
     mp3file: "url"
   },
   {
     title: "Piedad Dm",
-    lyric: "Se;or ten piedad de nosotros, Se;or ten piedad de nosotros",
+    lyric: "http://www.axmag.com/download/pdfurl-guide.pdf",
     mp3file: "url"
   }
 ];

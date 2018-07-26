@@ -32,6 +32,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-v21/notification_action_background.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1c6d361909cc0e65639e94f6e53f5214/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_default_scroll_handle_right.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/dd094a7e52cc701a7860adc34f717442/res/drawable/default_scroll_handle_right.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
@@ -74,6 +82,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1c6d361909cc0e65639e94f6e53f5214/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
@@ -180,6 +192,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -232,6 +248,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1c6d361909cc0e65639e94f6e53f5214/res/layout/redbox_view.xml"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -252,6 +272,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
@@ -266,6 +290,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/home/bohernandez/Projects/carminumApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -344,6 +372,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable/notification_tile_bg.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
     },
@@ -374,6 +406,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68106db04d31f244a6fd8f3d0ecdec15/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -408,16 +444,28 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68106db04d31f244a6fd8f3d0ecdec15/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -468,6 +516,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_default_scroll_handle_bottom.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/dd094a7e52cc701a7860adc34f717442/res/drawable/default_scroll_handle_bottom.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -476,12 +528,28 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_default_scroll_handle_top.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/dd094a7e52cc701a7860adc34f717442/res/drawable/default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/home/bohernandez/Projects/carminumApp/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_full_material.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_default_scroll_handle_left.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.1.0-beta.1.aar/dd094a7e52cc701a7860adc34f717442/res/drawable/default_scroll_handle_left.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -548,6 +616,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png"
     },
@@ -562,6 +634,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
@@ -606,6 +682,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
@@ -708,6 +788,14 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68106db04d31f244a6fd8f3d0ecdec15/res/layout/notification_template_lines_media.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
     },
@@ -716,12 +804,20 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -840,12 +936,20 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/68106db04d31f244a6fd8f3d0ecdec15/res/layout/notification_template_media_custom.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background_light.xml.flat",
@@ -876,6 +980,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
     },
@@ -892,6 +1000,10 @@
         "source": "/home/bohernandez/Projects/carminumApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1c6d361909cc0e65639e94f6e53f5214/res/anim/catalyst_push_up_out.xml"
     },
@@ -906,6 +1018,14 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
@@ -954,6 +1074,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
@@ -1032,6 +1156,10 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/layout/abc_select_dialog_material.xml"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout-v21/notification_action.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/layout/notification_template_part_chronometer.xml"
     },
@@ -1046,6 +1174,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
@@ -1096,8 +1228,16 @@
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable/notification_bg.xml"
+    },
+    {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -1114,6 +1254,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1150,6 +1294,10 @@
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
         "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/545d6614cb28be79603df9936a63ddd1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/bohernandez/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b7ba292219cc9be4d61e310536c3f960/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/bohernandez/Projects/carminumApp/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
