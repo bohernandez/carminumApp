@@ -7,17 +7,32 @@ import Lyrics from './app/components/lyrics';
 let listaCantos = [
   {
     title: "E. Canta Iglesia",
-    lyric: "http://www.axmag.com/download/pdfurl-guide.pdf",
+    lyric: "bundle-assets://pdf/canta_iglesia.pdf",
     mp3file: "url"
   },
   {
     title: "Pueblo de Reyes",
-    lyric: "http://www.axmag.com/download/pdfurl-guide.pdf",
+    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
     mp3file: "url"
   },
   {
     title: "Piedad Dm",
-    lyric: "http://www.axmag.com/download/pdfurl-guide.pdf",
+    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
+    mp3file: "url"
+  },
+  {
+    title: "Gloria Geombini",
+    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
+    mp3file: "url"
+  },
+  {
+    title: "Antifona | Aleluya",
+    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
+    mp3file: "url"
+  },
+  {
+    title: "Ofrenda",
+    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
     mp3file: "url"
   }
 ];
