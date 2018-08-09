@@ -7,34 +7,54 @@ import Lyrics from './app/components/lyrics';
 let listaCantos = [
   {
     title: "E. Canta Iglesia",
-    lyric: "bundle-assets://pdf/canta_iglesia.pdf",
+    lyric: "bundle-assets://pdf/canta_Iglesia.pdf",
     mp3file: "url"
   },
   {
     title: "Pueblo de Reyes",
-    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
+    lyric: "bundle-assets://pdf/pueblo_de_reyes.pdf",
     mp3file: "url"
   },
   {
-    title: "Piedad Dm",
-    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
-    mp3file: "url"
-  },
-  {
-    title: "Gloria Geombini",
-    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
+    title: "Piedad | Gloria",
+    lyric: "bundle-assets://pdf/piedad_gloria.pdf",
     mp3file: "url"
   },
   {
     title: "Antifona | Aleluya",
-    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
+    lyric: "bundle-assets://pdf/aleluya.pdf",
     mp3file: "url"
   },
   {
     title: "Ofrenda",
-    lyric: "bundle-assets://pdf/pueblo_reyes.pdf",
+    lyric: "bundle-assets://pdf/ofertorio.pdf",
     mp3file: "url"
-  }
+  },
+  {
+    title: "Santo",
+    lyric: "bundle-assets://pdf/santo_roma.pdf",
+    mp3file: "url"
+  },
+  {
+    title: "Padre Nuestro",
+    lyric: "bundle-assets://pdf/padre_nuestro.pdf",
+    mp3file: "url"
+  },
+  {
+    title: "Cordero Mejia",
+    lyric: "bundle-assets://pdf/cordero_mejia.pdf",
+    mp3file: "url"
+  },
+  {
+    title: "Comunion",
+    lyric: "bundle-assets://pdf/comunion.pdf",
+    mp3file: "url"
+  },
+  {
+    title: "Final",
+    lyric: "bundle-assets://pdf/final.pdf",
+    mp3file: "url"
+  },
 ];
 
 class App extends React.Component {
